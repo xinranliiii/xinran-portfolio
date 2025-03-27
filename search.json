@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "You can view or download my full CV here:\nClick here to view my CV\n\n\n\nXinran Li is a master’s student in Business Analytics at Boston University with internship experience across the retail, finance, and sustainability sectors. Her expertise includes data visualization, causal inference, and machine learning foundations. She combines strong business acumen with a data-driven mindset to support strategic decision-making.\nKey skills: - Tools: Python, R, SQL, Tableau, Power BI - Methods: Regression, A/B Testing, Time Series, DID (Difference-in-Differences) - Industries: Luxury Retail, Asset Management, Nonprofit/Social Impact\nFor a full summary, please check the CV above."
+  },
+  {
+    "objectID": "cv.html#my-cv",
+    "href": "cv.html#my-cv",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "You can view or download my full CV here:\nClick here to view my CV\n\n\n\nXinran Li is a master’s student in Business Analytics at Boston University with internship experience across the retail, finance, and sustainability sectors. Her expertise includes data visualization, causal inference, and machine learning foundations. She combines strong business acumen with a data-driven mindset to support strategic decision-making.\nKey skills: - Tools: Python, R, SQL, Tableau, Power BI - Methods: Regression, A/B Testing, Time Series, DID (Difference-in-Differences) - Industries: Luxury Retail, Asset Management, Nonprofit/Social Impact\nFor a full summary, please check the CV above."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Xinran Li",
+    "section": "",
+    "text": "Business Analytics @ Boston University\n Data | Strategy | Visualization \n\nPython • SQL • Tableau • Power BI\n Decision Science • Digital Analytics\n\n\nContact →"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Xinran Li",
+    "section": "About",
+    "text": "About\n\n\nI’m Xinran Li, a Master’s student in Business Analytics at Boston University.\nWith hands-on experience across luxury retail (KENZO), asset management (ZhongGeng Fund), and sustainability (Co2 Lab),\nI enjoy bridging the gap between business goals and data insights.\nI specialize in:\n\n📊 Data Visualization (Power BI, Tableau)\n\n🧠 Causal Inference, A/B Testing\n\n🛠️ Python • SQL • R\n\nOutside of work, I love hiking in nature 🥾, exploring new coffee shops ☕, watercolor painting 🎨, and playing piano 🎹."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Xinran Li",
+    "section": "Projects",
+    "text": "Projects\n\n\n\n\n📦 Amazon Strategy Report\n\n\nAnalyzed Amazon’s global expansion strategies and digital transformation initiatives.\n\nArticle\n\n\n\n🏠 Real Estate Dashboard\n\n\nBuilt a Python-based real estate analytics platform using regression and clustering.\n\nArticle\n\n\n\n👗 SHEIN Market Analysis\n\n\nStudied SHEIN’s Gen Z positioning and competitive advantage through data-backed insights.\n\nArticle\n\n\n\n🧠 Business Ethics Report\n\n\nExplored ethical practices in AI and platform governance using case studies.\n\nArticle\n\n\n\n📈 Final Year Project (FYP)\n\n\nApplied NLP to extract customer pain points from reviews using keyword clustering.\n\nArticle\n\n\n\n🚀 Velocity Pricing Model\n\n\nDeveloped a revenue-maximization model using elasticity data and price sensitivity curves.\n\nArticle"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Xinran Li",
+    "section": "Skills",
+    "text": "Skills\n\n\n\nPython 95%\n\n\nSQL 90%\n\n\nPower BI 90%\n\n\nTableau 80%\n\n\nR 95%\n\n\nHTML/CSS 90%\n\n\nExcel/VBA 85%\n\n\nAWS 90%\n\n\nMATLAB 70%"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Xinran Li",
+    "section": "Experience",
+    "text": "Experience\n\n\n\nKENZO (LVMH)\n\n\nRetail Operations Intern\n\nFeb 2024 – Aug 2024\n\n\n\n\n\n\nWanlian Securities\n\n\nBusiness Analyst Intern\n\nDec 2022 – Jan 2023\n\n\n\n\n\n\nZhongGeng Fund\n\n\nBusiness Operations Assistant\n\nJul 2022 – Aug 2022\n\n\n\n\n\n\nUIC Student Union\n\n\nPresident & Financial Head\n\nSep 2021 – Jun 2023\n\n\n\n\n\n\nAAEC\n\n\nMarketing & Operations Lead\n\nSep 2021 – Jan 2022"
+  },
+  {
+    "objectID": "index.html#cv",
+    "href": "index.html#cv",
+    "title": "Xinran Li",
+    "section": "CV",
+    "text": "CV\n\n📄 Download CV"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Xinran Li",
+    "section": "Contact",
+    "text": "Contact\n\n\n\nLet’s Connect\n\n\nI’m always open to new opportunities, collaborations, or just a friendly conversation.\n\n\n\nEmail: lixinrannnnn@gmail.com\n\n\nPhone: +1 (857) 343-7314\n\n\nLocation: Boston, MA"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Let’s Connect\n\n\nI’m always open to new opportunities, collaborations, or just a friendly conversation.\n Feel free to reach out!\n\n\n\nEmail: lixinrannnnn@gmail.com\n\n\nPhone: +1 (857) 343-7314\n\n\nLocation: Boston, MA\n\n\n\n📩 Send Me an Email"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Analyzed Amazon’s global expansion strategies and digital transformation initiatives.\n\nArticle\n\n\n\n\nBuilt a Python-based real estate analytics platform using regression and clustering.\n\nArticle\n\n\n\n\nStudied SHEIN’s Gen Z positioning and competitive advantage through data-backed insights.\n\nArticle\n\n\n\n\nExplored ethical practices in AI and platform governance using case studies.\n\nArticle\n\n\n\n\nApplied NLP to extract customer pain points from reviews using keyword clustering.\n\nArticle\n\n\n\n\nDeveloped a revenue-maximization model using elasticity data and price sensitivity curves.\n\nArticle"
+  },
+  {
+    "objectID": "projects.html#featured-projects",
+    "href": "projects.html#featured-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Analyzed Amazon’s global expansion strategies and digital transformation initiatives.\n\nArticle\n\n\n\n\nBuilt a Python-based real estate analytics platform using regression and clustering.\n\nArticle\n\n\n\n\nStudied SHEIN’s Gen Z positioning and competitive advantage through data-backed insights.\n\nArticle\n\n\n\n\nExplored ethical practices in AI and platform governance using case studies.\n\nArticle\n\n\n\n\nApplied NLP to extract customer pain points from reviews using keyword clustering.\n\nArticle\n\n\n\n\nDeveloped a revenue-maximization model using elasticity data and price sensitivity curves.\n\nArticle"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m Xinran Li, a Master’s student in Business Analytics at Boston University.\n\n\nWith hands-on experience across luxury retail (KENZO), asset management (ZhongGeng Fund), and sustainability (Co2 Lab),\nI enjoy bridging the gap between business goals and data insights.\n\n\nI specialize in:\n\n\n\n📊 Data Visualization (Power BI, Tableau)\n\n\n🧠 Causal Inference, A/B Testing\n\n\n🛠️ Python • SQL • R\n\n\n\nOutside of work, I love hiking in nature 🥾, exploring new coffee shops ☕️, watercolor painting 🎨, and playing piano 🎹."
+  }
+]
