@@ -1,0 +1,23 @@
+---
+title: "Curriculum Vitae"
+format: html
+---
+
+## My CV
+
+You can view or download my full CV here:
+
+[Click here to view my CV](CV.pdf){target="_blank"}
+
+---
+
+### Summary
+
+Xinran Li is a master’s student in Business Analytics at Boston University with internship experience across the retail, finance, and sustainability sectors. Her expertise includes data visualization, causal inference, and machine learning foundations. She combines strong business acumen with a data-driven mindset to support strategic decision-making.
+
+Key skills:
+- Tools: Python, R, SQL, Tableau, Power BI
+- Methods: Regression, A/B Testing, Time Series, DID (Difference-in-Differences)
+- Industries: Luxury Retail, Asset Management, Nonprofit/Social Impact
+
+For a full summary, please check the CV above.

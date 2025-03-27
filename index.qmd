@@ -1,0 +1,243 @@
+---
+title: "Xinran Li"
+format:
+  html:
+    toc: false
+    page-layout: full
+    css: styles.css
+---
+
+<!-- HOME SECTION -->
+<div class="hero-grid fade-in">
+
+<div class="hero-left fade-in-up">
+
+# <span class="fade-text">Hi, I’m Xinran</span> {#home}
+
+<span class="subtitle">
+  Business Analytics @ Boston University  
+  <br>
+  Data | Strategy | Visualization
+</span>
+
+<div class="hero-skills">
+  Python • SQL • Tableau • Power BI  
+  <br>
+  Decision Science • Digital Analytics
+</div>
+
+<br>
+
+[Contact →](#contact){.btn-main}
+
+</div>
+
+<div class="hero-photo">
+<img src="profile.jpg" alt="Xinran Li profile photo">
+</div>
+
+</div>
+
+---
+
+## About {#about}
+
+<div class="about-section fade-in" style="background-color: #FFF8DC; border-radius: 12px;">
+
+<div class="about-content">
+
+I’m **Xinran Li**, a Master’s student in Business Analytics at **Boston University**.  
+With hands-on experience across luxury retail (KENZO), asset management (ZhongGeng Fund), and sustainability (Co2 Lab),  
+I enjoy bridging the gap between business goals and data insights.
+
+I specialize in:
+
+- 📊 Data Visualization (Power BI, Tableau)  
+- 🧠 Causal Inference, A/B Testing  
+- 🛠️ Python • SQL • R
+
+Outside of work, I love hiking in nature 🥾, exploring new coffee shops ☕, watercolor painting 🎨, and playing piano 🎹.
+
+</div>
+
+</div>
+
+---
+
+## Projects {#projects}
+
+<div class="page-section fade-in">
+
+<div class="project-grid">
+
+<div class="project-card">
+  <h3>📦 Amazon Strategy Report</h3>
+  <p>Analyzed Amazon's global expansion strategies and digital transformation initiatives.</p>
+  <a href="Amazon.pdf" class="btn-main">Article</a>
+</div>
+
+<div class="project-card">
+  <h3>🏠 Real Estate Dashboard</h3>
+  <p>Built a Python-based real estate analytics platform using regression and clustering.</p>
+  <a href="Real Estate.pdf" class="btn-main">Article</a>
+</div>
+
+<div class="project-card">
+  <h3>👗 SHEIN Market Analysis</h3>
+  <p>Studied SHEIN’s Gen Z positioning and competitive advantage through data-backed insights.</p>
+  <a href="SHEIN.pdf" class="btn-main">Article</a>
+</div>
+
+<div class="project-card">
+  <h3>🧠 Business Ethics Report</h3>
+  <p>Explored ethical practices in AI and platform governance using case studies.</p>
+  <a href="Business Ethics Report.pdf" class="btn-main">Article</a>
+</div>
+
+<div class="project-card">
+  <h3>📈 Final Year Project (FYP)</h3>
+  <p>Applied NLP to extract customer pain points from reviews using keyword clustering.</p>
+  <a href="FYP.pdf" class="btn-main">Article</a>
+</div>
+
+<div class="project-card">
+  <h3>🚀 Velocity Pricing Model</h3>
+  <p>Developed a revenue-maximization model using elasticity data and price sensitivity curves.</p>
+  <a href="Velocity.pdf" class="btn-main">Article</a>
+</div>
+
+</div>
+</div>
+
+---
+
+## Skills {#skills}
+
+::: {.page-section .fade-in}
+<div class="skills-grid">
+
+<div class="skill-bubble">
+  <span class="skill-name">Python</span>
+  <span class="skill-percent">95%</span>
+</div>
+
+<div class="skill-bubble">
+  <span class="skill-name">SQL</span>
+  <span class="skill-percent">90%</span>
+</div>
+
+<div class="skill-bubble">
+  <span class="skill-name">Power BI</span>
+  <span class="skill-percent">90%</span>
+</div>
+
+<div class="skill-bubble">
+  <span class="skill-name">Tableau</span>
+  <span class="skill-percent">80%</span>
+</div>
+
+<div class="skill-bubble">
+  <span class="skill-name">R</span>
+  <span class="skill-percent">95%</span>
+</div>
+
+<div class="skill-bubble">
+  <span class="skill-name">HTML/CSS</span>
+  <span class="skill-percent">90%</span>
+</div>
+
+<div class="skill-bubble">
+  <span class="skill-name">Excel/VBA</span>
+  <span class="skill-percent">85%</span>
+</div>
+
+<div class="skill-bubble">
+  <span class="skill-name">AWS</span>
+  <span class="skill-percent">90%</span>
+</div>
+
+<div class="skill-bubble">
+  <span class="skill-name">MATLAB</span>
+  <span class="skill-percent">70%</span>
+</div>
+
+</div>
+:::
+
+---
+
+## Experience {#experience}
+
+<div class="timeline-connected">
+
+<div class="timeline-item">
+  <h3><strong>KENZO (LVMH)</strong></h3>
+  <p>Retail Operations Intern</p>
+  <span>Feb 2024 – Aug 2024</span>
+</div>
+<div class="timeline-connector"></div>
+
+<div class="timeline-item">
+  <h3><strong>Wanlian Securities</strong></h3>
+  <p>Business Analyst Intern</p>
+  <span>Dec 2022 – Jan 2023</span>
+</div>
+<div class="timeline-connector"></div>
+
+<div class="timeline-item">
+  <h3><strong>ZhongGeng Fund</strong></h3>
+  <p>Business Operations Assistant</p>
+  <span>Jul 2022 – Aug 2022</span>
+</div>
+<div class="timeline-connector"></div>
+
+<div class="timeline-item">
+  <h3><strong>UIC Student Union</strong></h3>
+  <p>President & Financial Head</p>
+  <span>Sep 2021 – Jun 2023</span>
+</div>
+<div class="timeline-connector"></div>
+
+<div class="timeline-item">
+  <h3><strong>AAEC</strong></h3>
+  <p>Marketing & Operations Lead</p>
+  <span>Sep 2021 – Jan 2022</span>
+</div>
+
+</div>
+
+---
+
+## CV {#cv}
+
+<div class="page-section fade-in" style="text-align: center;">
+
+[📄 Download CV](CV.pdf){.btn-main}
+
+</div>
+
+---
+
+## Contact {#contact}
+
+<div class="page-section fade-in" style="display: flex; align-items: center; justify-content: center; gap: 3rem; flex-wrap: wrap;">
+
+<div style="text-align: center; max-width: 480px;">
+  <h2 class="section-title">Let's Connect</h2>
+
+  <p>
+  I’m always open to new opportunities, collaborations, or just a friendly conversation.
+  </p>
+
+  <ul style="list-style: none; padding: 0; font-size: 1.1rem;">
+    <li><strong>Email:</strong> <a href="mailto:lixinrannnnn@gmail.com">lixinrannnnn@gmail.com</a></li>
+    <li><strong>Phone:</strong> +1 (857) 343-7314</li>
+    <li><strong>Location:</strong> Boston, MA</li>
+  </ul>
+</div>
+
+<div style="border: 2px solid #FFF3B0; border-radius: 50%; width: 170px; height: 170px; overflow: hidden; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+  <img src="picture.jpg" alt="Connect section image" style="width: 100%; height: 100%; object-fit: cover; border-radius: 50%;">
+</div>
+
+</div>

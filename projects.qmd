@@ -1,0 +1,52 @@
+---
+title: "Projects"
+format:
+  html:
+    css: styles.css
+    toc: false
+---
+
+<div class="page-section fade-in">
+
+## Featured Projects
+
+<div class="project-grid">
+
+<div class="project-card">
+  <h3>📦 Amazon Strategy Report</h3>
+  <p>Analyzed Amazon's global expansion strategies and digital transformation initiatives.</p>
+  <a href="Amazon.pdf" class="btn-main">Article</a>
+</div>
+
+<div class="project-card">
+  <h3>🏠 Real Estate Dashboard</h3>
+  <p>Built a Python-based real estate analytics platform using regression and clustering.</p>
+  <a href="Real Estate.pdf" class="btn-main">Article</a>
+</div>
+
+<div class="project-card">
+  <h3>👗 SHEIN Market Analysis</h3>
+  <p>Studied SHEIN’s Gen Z positioning and competitive advantage through data-backed insights.</p>
+  <a href="SHEIN.pdf" class="btn-main">Article</a>
+</div>
+
+<div class="project-card">
+  <h3>🧠 Business Ethics Report</h3>
+  <p>Explored ethical practices in AI and platform governance using case studies.</p>
+  <a href="Business Ethics Report.pdf" class="btn-main">Article</a>
+</div>
+
+<div class="project-card">
+  <h3>📈 Final Year Project (FYP)</h3>
+  <p>Applied NLP to extract customer pain points from reviews using keyword clustering.</p>
+  <a href="FYP.pdf" class="btn-main">Article</a>
+</div>
+
+<div class="project-card">
+  <h3>🚀 Velocity Pricing Model</h3>
+  <p>Developed a revenue-maximization model using elasticity data and price sensitivity curves.</p>
+  <a href="Velocity.pdf" class="btn-main">Article</a>
+</div>
+
+</div>
+</div>

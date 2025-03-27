@@ -1,0 +1,34 @@
+---
+title: "About"
+format: html
+---
+
+<div class="about-section">
+
+<div class="about-content about-text-block">
+
+<p class="delay-1">
+  I’m <strong>Xinran Li</strong>, a Master’s student in Business Analytics at <strong>Boston University</strong>.
+</p>
+
+<p class="delay-2">
+  With hands-on experience across luxury retail (KENZO), asset management (ZhongGeng Fund), and sustainability (Co2 Lab),  
+  I enjoy bridging the gap between business goals and data insights.
+</p>
+
+<p class="delay-3">
+  I specialize in:
+</p>
+
+<ul class="delay-4">
+  <li>📊 Data Visualization (Power BI, Tableau)</li>
+  <li>🧠 Causal Inference, A/B Testing</li>
+  <li>🛠️ Python • SQL • R</li>
+</ul>
+
+<p class="delay-5">
+  Outside of work, I love hiking in nature 🥾, exploring new coffee shops ☕️, watercolor painting 🎨, and playing piano 🎹.
+</p>
+
+</div>
+</div>

@@ -1,0 +1,28 @@
+---
+title: "Contact"
+format: html
+---
+
+<div class="page-section fade-in">
+
+  <h2 class="section-title">Let's Connect</h2>
+
+  <p style="text-align: center;">
+    I’m always open to new opportunities, collaborations, or just a friendly conversation.  
+    <br><br>
+    Feel free to reach out!
+  </p>
+
+  <ul style="list-style: none; padding: 0; text-align: center; font-size: 1.1rem;">
+    <li><strong>Email:</strong> <a href="mailto:lixinrannnnn@gmail.com">lixinrannnnn@gmail.com</a></li>
+    <li><strong>Phone:</strong> +1 (857) 343-7314</li>
+    <li><strong>Location:</strong> Boston, MA</li>
+  </ul>
+
+::: {style="text-align: center; margin-top: 2rem;"}
+
+<a href="mailto:lixinrannnnn@gmail.com" class="btn-main">📩 Send Me an Email</a>
+
+:::
+
+</div>
